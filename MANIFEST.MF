@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Java_New_project
+Bundle-SymbolicName: Java_New_project
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: Java.New.project
+Export-Package: com.university,
+ com.university.config,
+ com.university.model,
+ com.university.repository,
+ com.university.service,
+ com.university.ui,
+ com.university.ui.base,
+ com.university.ui.dashboard
